@@ -127,8 +127,12 @@ table {
   border-spacing: 0;
 }
 
+/* ----------------------------- Global ----------------------------- */
 
 * {
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
